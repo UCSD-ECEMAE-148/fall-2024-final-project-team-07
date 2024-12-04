@@ -47,10 +47,10 @@ Team 7 Fall 2024
 ## Team Members
 
 <div align="center">
-    <p align = "center">Kiersten, Jacob, Joe, Damien</p>
+    <p align = "center">Jeff, Chris, Ashely</p>
 </div>
 
-<h4>Team Member Major and Class </h4>
+<h4>Team Member Major </h4>
 <ul>
   <li>Jeff - Aerospace Engineering</li>
   <li>Chris - Mechanical Engineering</li>
