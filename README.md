@@ -8,6 +8,3 @@
 <p>
 Team 7 Fall 2024
 </p>
-
-![image](images/7C66CA64-C422-4535-9721-F523EA8FAC5B.jpeg)
-</div>
