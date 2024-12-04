@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -8,6 +10,7 @@
 <p>
 Team 7 Fall 2024
 </p>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
