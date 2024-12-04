@@ -50,14 +50,14 @@ Team 7 Fall 2024
 ## Team Members
 
 <div align="center">
-    <p align = "center">Jeff, Chris, Ashley</p>
+    <p align = "center">Jeff, Chris, Ashlee</p>
 </div>
 
 <h4>Team Member Major </h4>
 <ul>
   <li>Jeff - Aerospace Engineering</li>
   <li>Chris - Mechanical Engineering</li>
-  <li>Ashley - Electrical Engineering</li>
+  <li>Ashlee - Electrical Engineering</li>
 </ul>
 
 <!-- Final Project -->
