@@ -50,7 +50,7 @@ Team 7 Fall 2024
 ## Team Members
 
 <div align="center">
-    <p align = "center">Jeff, Chris, Ashely</p>
+    <p align = "center">Jeff, Chris, Ashley</p>
 </div>
 
 <h4>Team Member Major </h4>
