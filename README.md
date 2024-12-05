@@ -89,16 +89,20 @@ The original goal for this project was to have a car that patrols an area using 
 <div align="center">
 
 **Main Mounting Plate**
+
 ![Main Mounting Plate](images/IMG1-main_mounting_plate.png "Main Mounting Plate")
 
 **Combined Camera and LIDAR Mount**
-![Combined Camera and LIDAR Mount](images\IMG2-combined_lidar_camera_mount.png "Combined Camera and LIDAR Mount")
+
+![Combined Camera and LIDAR Mount](images/IMG2-combined_lidar_camera_mount.png "Combined Camera and LIDAR Mount")
 
 **Camera Mount**
-![Main Mounting Plate](images\IMG3-camera_mount.png "Camera Mount")
+
+![Main Mounting Plate](images/IMG3-camera_mount.png "Camera Mount")
 
 **LCD Mount**
-![Combined Camera and LIDAR Mount](images\IMG4-LCD_mount.png "LCD Mount")
+
+![Combined Camera and LIDAR Mount](images/IMG4-LCD_mount.png "LCD Mount")
 
 </div>
 
