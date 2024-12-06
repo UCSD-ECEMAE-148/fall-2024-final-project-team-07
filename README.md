@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -165,6 +163,8 @@ The Arduino facilitates communication via serial commands:
 ---
 
 ### Course Deliverables
+
+[![Course Deliverables](./images/course_deliverables.png)](https://drive.google.com/drive/folders/19BW6AHKIXl78ZI0pPDGdtria1HKv7pat?usp=drive_link)
 
 ---
 
