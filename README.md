@@ -33,9 +33,9 @@ Team 7 Fall 2024
 
 ## Team Members
 
-Jeff - Aerospace Engineering
-Chris - Mechanical Engineering
-Ashlee - Electrical Engineering
+<li>Jeffrey Bratman - Aerospace Engineering</li>
+<li>Christoph Bach - Mechanical Engineering</li>
+<li>Ashlee Young - Electrical Engineering</li>
 
 ## Final Project
 
