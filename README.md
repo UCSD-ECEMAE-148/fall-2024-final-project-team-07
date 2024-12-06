@@ -39,7 +39,7 @@ Team 7 Fall 2024
 
 ## Final Project
 
-This project utilizes the DepthAI Toolbox in the robocar framework to identify a person and follow them until an ArUco marker is shown. If a valid marker is shown, a green light is flashed on the LCD screen and the car will back up to identify another person. If an invalid marker is shown, a red light is flashed on the LCD screen and the car will continue to follow the person until a valid marker is detected.
+This project utilizes the DepthAI Toolbox in the robocar framework to identify a person and follow them until an ArUco marker is shown. If a valid marker is shown, a green light is flashed on the LCD screen and the car will back up and make a u-turn to identify another person. If an invalid marker is shown, a red light is flashed on the LCD screen and the car will continue to follow the person until a valid marker is detected.
 
 ---
 
@@ -64,11 +64,9 @@ The original goal for this project was to have a car that patrols an area using 
 3. **Dynamic Response to Markers**  
    Once an accepted ArUco marker is detected:
    - The car halts, flashes a green light on the LCD screen, and backs up.
-   - It then resumes patrolling, searching for another human to follow.  
-     If no marker is detected, the car continues its tracking behavior.
-
+   - It then switches its mode to search for another human to follow.  
+   
 ---
-
 ### Our Hopes and Dreams
 
 ---
