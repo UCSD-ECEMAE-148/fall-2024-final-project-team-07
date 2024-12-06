@@ -84,6 +84,9 @@ The original goal for this project was to have a car that patrols an area using 
 
 ## Final Project Videos
 
+[![LCD Aruco Verification](images/lcd_aruco_verification.gif)](images/lcd_aruco_verification.mp4)
+[![Driving Car](images/Driving_car.gif)](images/Driving_car.MOV)
+
 ### CAD Parts
 
 <div align="center">
