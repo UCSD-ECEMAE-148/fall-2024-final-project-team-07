@@ -203,7 +203,7 @@ class CameraControlNode(Node):
 
                     # Step 3: Move forward
                     self.twist_cmd.linear.x = 0.4  # Move forward
-                    self.twist_cmd.angular.z = -0.1  # Straight movement
+                    self.twist_cmd.angular.z = 0.0  # Straight movement
                     self.twist_publisher.publish(self.twist_cmd)
                     self.get_logger().info(
                         f"Moving forward: linear.x={self.twist_cmd.linear.x}, angular.z={self.twist_cmd.angular.z}"
