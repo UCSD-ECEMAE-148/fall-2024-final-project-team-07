@@ -67,6 +67,7 @@ The original goal for this project was to have a car that patrols an area using 
 ---
 ### Our Hopes and Dreams
 
+
 ---
 
 ### Stretch Goals
@@ -160,6 +161,8 @@ The Arduino facilitates communication via serial commands:
 
 ### Gantt Chart
 
+![Gantt Chart](images/Gantt_Chart_Final_v2.png "Gantt Chart")
+
 ---
 
 ### Course Deliverables
@@ -175,3 +178,6 @@ Special thanks to Professor Jack Silberman, Winston, and Alexander for an amazin
 ---
 
 ### Contact
+</li>Jeff | jbratman@ucsd.edu</li>
+</li>Chris | chris.bach@tum.de</li>
+</li>Ashlee | asy001@ucsd.edu</li>
