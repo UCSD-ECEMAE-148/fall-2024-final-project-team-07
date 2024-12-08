@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -33,13 +31,13 @@ Team 7 Fall 2024
 
 ## Team Members
 
-Jeff - Aerospace Engineering
-Chris - Mechanical Engineering
-Ashlee - Electrical Engineering
+<li>Jeffrey Bratman - Aerospace Engineering</li>
+<li>Christoph Bach - Mechanical Engineering</li>
+<li>Ashlee Young - Electrical Engineering</li>
 
 ## Final Project
 
-This project utilizes the DepthAI Toolbox in the robocar framework to identify a person and follow them until an ArUco marker is shown. If a valid marker is shown, a green light is flashed on the LCD screen and the car will back up to identify another person. If an invalid marker is shown, a red light is flashed on the LCD screen and the car will continue to follow the person until a valid marker is detected.
+This project utilizes the DepthAI Toolbox in the robocar framework to identify a person and follow them until an ArUco marker is shown. If a valid marker is shown, a green light is flashed on the LCD screen and the car will back up and make a u-turn to identify another person. If an invalid marker is shown, a red light is flashed on the LCD screen and the car will continue to follow the person until a valid marker is detected.
 
 ---
 
@@ -64,11 +62,9 @@ The original goal for this project was to have a car that patrols an area using 
 3. **Dynamic Response to Markers**  
    Once an accepted ArUco marker is detected:
    - The car halts, flashes a green light on the LCD screen, and backs up.
-   - It then resumes patrolling, searching for another human to follow.  
-     If no marker is detected, the car continues its tracking behavior.
-
+   - It then switches its mode to search for another human to follow.  
+   
 ---
-
 ### Our Hopes and Dreams
 
 ---
@@ -85,7 +81,7 @@ The original goal for this project was to have a car that patrols an area using 
 ## Final Project Videos
 
 [![LCD Aruco Verification](images/lcd_aruco_verification.gif)](images/lcd_aruco_verification.mp4)
-[![Driving Car](images/Driving_car (1).gif)](images/Driving_car.MOV)
+[![Driving Car](images/Driving_car_size_adjusted.gif)](images/Driving_car.MOV)
 
 ### CAD Parts
 
@@ -94,6 +90,10 @@ The original goal for this project was to have a car that patrols an area using 
 **Main Mounting Plate**
 
 ![Main Mounting Plate](images/IMG1-main_mounting_plate.png "Main Mounting Plate")
+
+**Jetson and DC-DC Converter Mount**
+
+![Jetson and DC-DC Converter Mount](images/Jetson_Mount.png "Jetson Mounting Plate")
 
 **Combined Camera and LIDAR Mount**
 
@@ -163,6 +163,8 @@ The Arduino facilitates communication via serial commands:
 ---
 
 ### Course Deliverables
+
+[![Course Deliverables](./images/course_deliverables.png)](https://drive.google.com/drive/folders/19BW6AHKIXl78ZI0pPDGdtria1HKv7pat?usp=drive_link)
 
 ---
 
