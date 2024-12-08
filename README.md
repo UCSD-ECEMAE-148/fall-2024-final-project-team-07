@@ -66,7 +66,7 @@ The original goal for this project was to have a car that patrols an area using 
    
 ---
 ### Our Hopes and Dreams
-
+Our dream goal was a patrouling function in our car. It should drive around in a specified area and come up to a person once recognized. After scanning a correct AruCo Marker it should go back to patrouling
 
 ---
 
@@ -178,6 +178,6 @@ Special thanks to Professor Jack Silberman, Winston, and Alexander for an amazin
 ---
 
 ### Contact
-</li>Jeff | jbratman@ucsd.edu</li>
-</li>Chris | chris.bach@tum.de</li>
-</li>Ashlee | asy001@ucsd.edu</li>
+<li>Jeff | jbratman@ucsd.edu</li>
+<li>Chris | chris.bach@tum.de</li>
+<li>Ashlee | asy001@ucsd.edu</li>
