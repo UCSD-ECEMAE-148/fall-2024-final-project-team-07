@@ -113,6 +113,7 @@ Our dream goal was a patrouling function in our car. It should drive around in a
 ---
 
 ### Final Assembly
+![Final Car](images/IMG_8206.JPG "Final Car")
 
 ---
 
