@@ -118,7 +118,17 @@ Our dream goal was a patrouling function in our car. It should drive around in a
 ---
 
 ### Hardware
+<div align="center">
 
+**Wiring Diagram**
+
+![Wiring Diagram](images/wiring_diagram.png "Wiring Diagram")
+
+**Arduino** 
+
+![Arduino](images/arduino.png "Arduino")
+
+</div>
 ---
 
 ### Software Design
