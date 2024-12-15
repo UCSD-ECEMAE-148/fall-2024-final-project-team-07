@@ -118,8 +118,13 @@ Our dream goal was a patrouling function in our car. It should drive around in a
 ---
 
 ### Hardware
-<div align="center">
+- Jetson NANO
+- Arduino NANO
+- OAK-D Camera
+- Waveshare 2" LCD
 
+<div align="center">
+  
 **Wiring Diagram**
 
 ![Wiring Diagram](images/wiring_diagram.png "Wiring Diagram")
